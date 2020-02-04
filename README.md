@@ -1,6 +1,6 @@
 
 
-# Jacopo Ferrazza
+# Jacopo Ferrazza 💻
 
 Hey, I'm Jacopo Ferrazza, a software engineer based in the Dominican Republic with a passion for quality assurance and automation.  My passion for technology came at an early age, since the majority of my childhood was spent around computers.  Later on as a teen, I discovered my passion for software by coding my first “Hello World” in QBasic.
 
