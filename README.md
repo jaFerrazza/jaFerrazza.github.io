@@ -17,19 +17,17 @@ Towards the beginning of my career, I worked with different clients and distinct
 
 ## Languages and Tools 🛠
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_green.png"/>
 <img align="left" alt="WebdriverIO" width="26px" src="https://webdriver.io/img/webdriverio.png" />
-<img align="left" alt="Appium" width="26px" src="https://unaqaenapuros.files.wordpress.com/2019/02/appium-and-perfecto.png?w=300&h=300" />
-<img align="left" alt="Jest" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Appium" width="26px" src="https://unaqaenapuros.files.wordpress.com/2019/02/appium-and-perfecto.png?w=300&h=300"/>
+<img align="left" alt="Jest" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"/> 
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> 
 
+<br/><br/>
 
-
-
-<!-- > Comment </!-->
 ## Connect with me 📫
 
 <a href = "https://www.linkedin.com/in/jferrazza/"> 
