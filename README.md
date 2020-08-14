@@ -2,7 +2,7 @@
 
 # Jacopo Ferrazza
 
-Hey, I'm Jacopo Ferrazza, a software engineer based in the Dominican Republic with a passion for quality assurance and automation.  My passion for technology came at an early age, since the majority of my childhood was spent around computers.  Later on as a teen, I discovered my passion for software by coding my first “Hello World” in QBasic.
+Howdie there, I'm a software engineer based in the Dominican Republic with a passion for quality assurance and automation.  My passion for technology came at an early age, since the majority of my childhood was spent around computers.  Later on as a teen, I discovered my passion for software by coding my first “Hello World” in QBasic.
 
 
 ## About me 👨🏻‍💻
@@ -14,8 +14,7 @@ Towards the beginning of my career, I worked with different clients and distinct
 
 ## Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Jacopo Ferrazza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href = "https://www.linkedin.com/in/jferrazza/" />
+<img align="left" alt="Jacopo Ferrazza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href = "https://www.instagram.com/jacopoo_/"/>
 
-[linkedin] : https://www.linkedin.com/in/jferrazza/
-[instagram] : https://www.instagram.com/jacopoo_/
+
