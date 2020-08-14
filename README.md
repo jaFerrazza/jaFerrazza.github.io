@@ -14,7 +14,12 @@ Towards the beginning of my career, I worked with different clients and distinct
 
 ## Connect with me
 
-<img align="left" alt="Jacopo Ferrazza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href = "https://www.linkedin.com/in/jferrazza/" />
-<img align="left" alt="Jacopo Ferrazza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href = "https://www.instagram.com/jacopoo_/"/>
+<a href = "https://www.linkedin.com/in/jferrazza/"> 
+<img align="left" alt="Jacopo Ferrazza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href = "https://www.instagram.com/jacopoo_/" > 
+<img align="left" alt="Jacopo Ferrazza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 
 
